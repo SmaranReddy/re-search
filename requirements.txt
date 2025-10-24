@@ -8,3 +8,6 @@ grpcio
 pinecone
 feedparser
 google-api-python-client
+google-genai
+numpy
+scikit-learn
