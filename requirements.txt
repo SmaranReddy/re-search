@@ -4,3 +4,7 @@ langgraph
 groq
 dotenv
 requests
+grpcio
+pinecone
+feedparser
+google-api-python-client
